@@ -30,7 +30,8 @@ section {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 4% 5%;
-    border-radius: 5px;
+    margin-top: 10px;
+    border-radius: 5%;
     color: white;
 
     font-weight: 600;
@@ -40,4 +41,28 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.practice {
+    font-size: larger;
+}
+
+.far {
+    margin: 5% 50% 20% 5%;
+}
+
+.background-add {
+    background-color: olive;
+    width: 200px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.dream-big {
+    display: flex;
+    margin: 50px 0px 0px 20px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
