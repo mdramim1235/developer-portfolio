@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
@@ -29,8 +29,8 @@ section {
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 4% 5%;
-    margin-top: 10px;
+    padding: 1% 5%;
+    margin-top: 5%px;
     border-radius: 5%;
     color: white;
 
